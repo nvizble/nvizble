@@ -47,8 +47,8 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joão-diniz-
+[![Linkedin](https://img.shields.io/badge/-João_Diniz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joão-diniz-
 )](www.linkedin.com/in/joão-diniz-
 )
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaodinizdev@gmail.com)](mailto:joadinizdev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-joaodinizdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaodinizdev@gmail.com)](mailto:joadinizdev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/nvizble?label=follow&style=social)](https://github.com/nvizble)
