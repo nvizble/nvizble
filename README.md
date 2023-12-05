@@ -1,16 +1,54 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-<!--
-**nvizble/nvizble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Sobre mim</h3>
 
-Here are some ideas to get you started:
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando **Desenvolvimento de software fullstack** no <a href="cubos.academy">Cubos academy</a>.
+<h3>Minhas Skills</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Aplicações e dados**
+
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+
+
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+
+<br/>
+
+<a href="https://github.com/nvizbe" title="Perfil do Nvizble">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nvizble&theme=dracula&show_icons=true" />
+</a>
+
+<h3>Onde me encontrar</h3>
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joão-diniz-
+)](www.linkedin.com/in/joão-diniz-
+)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaodinizdev@gmail.com)](mailto:joadinizdev@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/nvizble?label=follow&style=social)](https://github.com/nvizble)
