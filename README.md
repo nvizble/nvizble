@@ -3,6 +3,8 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🌟 Entusiasta de tecnologia, jogos e filmes.
+
 - 🎓 Estudando **Desenvolvimento de software fullstack** no <a href="cubos.academy">Cubos academy</a>.
 <h3>Minhas Skills</h3>
 
