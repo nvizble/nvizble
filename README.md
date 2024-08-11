@@ -1,16 +1,44 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td style="width: 50%;">
+       <img src="" alt="" style="width: 200%; border: none;"/>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <p style="font-family: monospace; font-size: 16px;">
+       
+           __         _       _      _       
+        /\ \ \__   __(_) ____| |__  | |  ___ 
+       /  \/ /\ \ / /| ||_  /| '_ \ | | / _ \
+      / /\  /  \ V / | | / / | |_) || ||  __/
+      \_\ \/    \_/  |_|/___||_.__/ |_| \___|
+                                       
+</p>
 
-<!--
-**nvizble/nvizble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    /About_Me
+    │
+    ├── bio.txt
+    │   ├── he/him - brazilian - (pt/br + english)
+    │   ├── Software engineer undergraduate
+    │
+    ├── os
+    │   ├── macOSX.txt
+    │   │   └── macOS 14 sonoma (main)
+    │   └── windows.txt
+    │       └── Windows 11
+    │
+    ├── languages
+    │   ├── C.c
+    │   ├── JAVA.java
+    │   ├── GOLANG.go
+    │   ├── TYPESCRIPT.ts
+    │   ├── RUST.rs
+    │   └── PYTHON.py
+    │
+    └── tools
+        ├── nvim
+        ├── docker
+        └── kubernetes
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        
+  </tr>
+</table>
