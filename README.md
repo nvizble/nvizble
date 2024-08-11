@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="" alt="" style="width: 200%; border: none;"/>
+       <img src="https://github.com/nvizble/nvizble/blob/main/a7934b0f2ea1175507d1a012473190ee.jpg" alt="cowboy bebop" style="width: 200%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
