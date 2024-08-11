@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td style="width: 20%;">
-       <img src="https://github.com/nvizble/nvizble/blob/main/a7934b0f2ea1175507d1a012473190ee.jpg" alt="cowboy bebop" style="width: 100%; border: none;"/>
+    <td style="width: 50%;">
+       <img src="https://github.com/nvizble/nvizble/blob/main/a7934b0f2ea1175507d1a012473190ee.jpg" alt="cowboy bebop" style="width: 200%; border: none;"/>
     </td>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 20%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
        
            __         _       _      _       
