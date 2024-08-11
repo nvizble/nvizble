@@ -18,7 +18,7 @@
     │
     ├── bio.txt
     │   ├── he/him - brazilian - (pt/br + english)
-    │   ├── Software engineer undergraduate
+    │   └── Software engineer undergraduate
     │
     ├── os
     │   ├── macOSX.txt
