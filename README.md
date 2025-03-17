@@ -21,8 +21,10 @@
     │   └── Software engineer undergraduate
     │
     ├── os
+    │   ├── linux.txt
+    │   │   └── arch (main)
     │   ├── macOSX.txt
-    │   │   └── macOS 14 sonoma (main)
+    │   │   └── macOS 
     │   └── windows.txt
     │       └── Windows 11
     │
